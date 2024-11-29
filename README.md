@@ -39,7 +39,7 @@
 <aside>
 💬
 
-**The autonomous driving market continues to grow, driven by increasing consumer demands for safety and efficiency. As a result, enhancing the accuracy and responsiveness of technologies utilizing LiDAR, radar, and cameras remains a critical challenge.**
+**The autonomous vehicle market is rapidly growing, with increasing consumer demand and an expanding market size. While the advancement of autonomous driving technology is exciting, as a cat owner, I believe it’s equally important to prevent collisions with animals like cats and dogs during autonomous driving. Ensuring ethical development alongside technological progress is a crucial challenge.**
 
 </aside>
 
