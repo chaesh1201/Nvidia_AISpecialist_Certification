@@ -385,3 +385,4 @@ def Create_npy(imagespath, imgsize, ext) :
 **Future research directions include: expanding the dataset with diverse animal images from various environments to improve model generalization; integrating thermal cameras and infrared imaging for better detection in low-light and occluded conditions; optimizing the model for improved computational efficiency and real-time performance; and combining data from cameras, LiDAR, and radar for more accurate animal detection.**
 
 </aside>
+## report_images https://github.com/chaesh1201/Nvidia_AISpecialist_Certification/issues/2#issue-2703603563
