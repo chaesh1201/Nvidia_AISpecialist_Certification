@@ -80,6 +80,7 @@
 ### Creating a Project
 
 ![390937532-13ccf404-2d11-4b1a-a0a7-a0a2788f56a1](https://github.com/user-attachments/assets/e2f0c212-1622-46a8-a9c2-6fc861d40725)
+
 **I appropriately named the project and set its type**
 
 </aside>
@@ -90,6 +91,7 @@
 ### Labeling
 
 ![390937535-8a82bb0b-162c-4e71-b805-132b4604584e](https://github.com/user-attachments/assets/57760a56-60a1-457f-b6e3-c3be3e022c81)
+
 **I used Roboflow to convert the video into images. Then, to train the model more accurately, I annotated the images with polygons instead of rectangles and set the appropriate classes for dogs and cats**
 
 </aside>
