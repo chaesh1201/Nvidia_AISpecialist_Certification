@@ -384,6 +384,6 @@ def Create_npy(imagespath, imgsize, ext) :
 **Future research directions include: expanding the dataset with diverse animal images from various environments to improve model generalization; integrating thermal cameras and infrared imaging for better detection in low-light and occluded conditions; optimizing the model for improved computational efficiency and real-time performance; and combining data from cameras, LiDAR, and radar for more accurate animal detection.**
 
 </aside>
-## report_images : https://github.com/chaesh1201/Nvidia_AISpecialist_Certification/issues/2#issue-2703603563
+report_images : https://github.com/chaesh1201/Nvidia_AISpecialist_Certification/issues/2#issue-2703603563
 
-## Original Link : https://pickle-eagle-bbb.notion.site/YOLOv5-Based-Animal-Detection-for-Safer-Autonomous-Driving-145cb791756080b5a14fffce04965e99?pvs=4
+Original Link : https://pickle-eagle-bbb.notion.site/YOLOv5-Based-Animal-Detection-for-Safer-Autonomous-Driving-145cb791756080b5a14fffce04965e99?pvs=4
