@@ -79,7 +79,7 @@
 
 ### Creating a Project
 
-![Creating_a_Project.PNG](Creating_a_Project.png)
+![390937532-13ccf404-2d11-4b1a-a0a7-a0a2788f56a1](https://github.com/user-attachments/assets/e2f0c212-1622-46a8-a9c2-6fc861d40725)
 
 **I appropriately named the project and set its type**
 
