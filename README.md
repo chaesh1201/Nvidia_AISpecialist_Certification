@@ -80,7 +80,6 @@
 ### Creating a Project
 
 ![390937532-13ccf404-2d11-4b1a-a0a7-a0a2788f56a1](https://github.com/user-attachments/assets/e2f0c212-1622-46a8-a9c2-6fc861d40725)
-
 **I appropriately named the project and set its type**
 
 </aside>
@@ -90,8 +89,7 @@
 
 ### Labeling
 
-![dog_labeling.PNG](dog_labeling.png)
-
+![390937535-8a82bb0b-162c-4e71-b805-132b4604584e](https://github.com/user-attachments/assets/57760a56-60a1-457f-b6e3-c3be3e022c81)
 **I used Roboflow to convert the video into images. Then, to train the model more accurately, I annotated the images with polygons instead of rectangles and set the appropriate classes for dogs and cats**
 
 </aside>
@@ -101,10 +99,9 @@
 
 ### Check Files
 
-![check_file.PNG](check_file.png)
+![390937520-075648ce-9e63-49d2-aba5-eb4b54e23073](https://github.com/user-attachments/assets/66934d51-4bf4-4b74-b860-2df32ab7dfa7)
 
-![check_file_2.PNG](check_file_2.png)
-
+![390937526-7d1c9b8a-410e-4506-af52-aa8953d550e7](https://github.com/user-attachments/assets/ad81261d-4019-489d-b73f-a5abd9225f9a)
 **After completing the annotations, I verified that the images and text files were saved correctly without any missing files**
 
 </aside>
@@ -315,35 +312,35 @@ def Create_npy(imagespath, imgsize, ext) :
 
 ### 📊C**onfusion_matrix**
 
-![confusion_matrix (1).png](confusion_matrix_(1).png)
+![390937528-9231834d-dc53-46e4-8e35-69079c185199](https://github.com/user-attachments/assets/10d6560a-1e0e-42b2-8273-78cc255fa6d0)
 
 ### 📊**F1_curve**
 
-![F1_curve.png](F1_curve.png)
+![390937536-33118b4f-c185-4fd1-aec6-0b33ee5a8243](https://github.com/user-attachments/assets/b098aa2f-1757-44b1-ad6c-69a3df0ec1a0)
 
 ### 📊**PR_curve**
 
-![PR_curve.png](PR_curve.png)
+![390937545-6a3369a8-6569-4314-94a9-8f52489b0c84](https://github.com/user-attachments/assets/ba1984e6-57f4-4b8d-9c57-b365a449b968)
 
 ### 📊L**abels**
 
-![labels.jpg](labels.jpg)
+![390937539-09db7b26-55da-47c6-8047-1dec9f64e4e6](https://github.com/user-attachments/assets/25e3a8d4-e670-4c64-b093-90b51650b791)
 
 ### 📊**P_curve**
 
-![P_curve.png](P_curve.png)
+![390937542-97869cb5-a783-4aa7-92ec-bd42ce40a149](https://github.com/user-attachments/assets/c75d3695-ab3f-48b5-be1e-06fe48d12f73)
 
 ### 📊**R_curve**
 
-![R_curve.png](R_curve.png)
+![390937547-95f6273c-dcd6-49ba-8156-af2d444b7bde](https://github.com/user-attachments/assets/da74791a-d1d2-4467-b3b4-ebbc7c08fba3)
 
 ### 📊R**esult**
 
-![results.png](results.png)
+![390937550-6c8eb81e-4710-46fa-8bc0-39569e220e69](https://github.com/user-attachments/assets/b85e7654-460b-4368-9c5a-2f258de8214d)
 
 ### 📊**Train_batch**
 
-![train_batch1.jpg](train_batch1.jpg)
+![390937551-84b672bd-c5ec-425e-a1e0-5aa8e8c411c3](https://github.com/user-attachments/assets/31773db3-2a51-48ae-b062-ff694cfd3db3)
 
 ### 📋**detect.py execution videos**
 
@@ -351,7 +348,7 @@ def Create_npy(imagespath, imgsize, ext) :
 
 ### 📊**Val_batch**
 
-![val_batch2_pred (1).jpg](val_batch2_pred_(1).jpg)
+![390937555-0206723d-f28a-495b-8064-cfaacc406b69](https://github.com/user-attachments/assets/8da67ebc-6315-4d77-adc0-30ee04df9bd7)
 
 ### 📋**detect.py execution images**
 
